@@ -1,0 +1,9 @@
+train: safety-helmet-dataset/images/train/
+val: safety-helmet-dataset/images/val/
+test: safety-helmet-dataset/images/test/
+
+# number of classes
+nc: 3
+
+# class names
+names: ["helmet","person", "head"]
